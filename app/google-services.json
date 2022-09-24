@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "960531401901",
+    "project_id": "localnotification-26037",
+    "storage_bucket": "localnotification-26037.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960531401901:android:a0aa0a2c4923c13cab8a24",
+        "android_client_info": {
+          "package_name": "com.jyestha.gd6_d_0918"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960531401901-fr9ca1r69fm2kt1ampjnjoj4v53vbrqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5WmW1tzEP_6RI8nYQTcEmVj3vfZDgzMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960531401901-fr9ca1r69fm2kt1ampjnjoj4v53vbrqs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
