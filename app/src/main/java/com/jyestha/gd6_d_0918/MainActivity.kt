@@ -26,6 +26,7 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding!!.root)
 
+        createNotificationChannel()
         binding!!.btn1.setOnClickListener{
             sendNotification1()
         }
