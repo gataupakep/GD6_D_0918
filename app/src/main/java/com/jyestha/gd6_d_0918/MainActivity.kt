@@ -35,6 +35,7 @@ class MainActivity : AppCompatActivity() {
             sendNotification2()
         }
     }
+    //
     private fun createNotificationChannel(){
         if(Build.VERSION.SDK_INT >= Build.VERSION_CODES.O){
             val name = "Notification Title"
